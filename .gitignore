@@ -1,2 +1,4 @@
 # Ignore file from www.thingiverse.com
 Thingiverse*
+# Ignore FreeCAD backup files
+*.fcstd1
